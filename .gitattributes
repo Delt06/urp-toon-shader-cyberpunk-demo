@@ -1,0 +1,6 @@
+*.unity binary merge=unityyamlmerge
+*.prefab binary merge=unityyamlmerge
+*.asset binary merge=unityyamlmerge
+*.unitypackage binary
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
