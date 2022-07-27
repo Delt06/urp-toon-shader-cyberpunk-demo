@@ -6,6 +6,17 @@ A small scene showcasing some of the capabilities of [URP Toon Shader](https://g
 
 ![Screenshot](Documentation/screenshot.jpg)
 
+## Used features
+
+- Ramp threshold/smoothness;
+- Shadow opacity;
+- Albedo texture;
+- Emission color;
+- Fog;
+- Additional lights;
+- Environment lighting;
+- Inverted Hull Outline.
+
 ## Used Assets
 - [Animated Mech Pack](https://quaternius.com/packs/animatedmech.html) by Quaternius;
 - [Cyberpunk Game Kit](https://quaternius.com/packs/cyberpunkgamekit.html) by Quaternius.
