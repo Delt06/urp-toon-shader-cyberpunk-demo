@@ -8,9 +8,10 @@ A small scene showcasing some of the capabilities of [URP Toon Shader](https://g
 
 ## Used features
 
-- Ramp threshold/smoothness;
+- Ramp threshold and smoothness;
 - Shadow opacity;
 - Albedo texture;
+- Shadow casting and receiving;
 - Emission color;
 - Fog;
 - Additional lights;
